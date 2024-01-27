@@ -62,7 +62,8 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
   <a href="#memo-licença">Licença</a>
 </p>
 
-![VSCODE git hub Alura](https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/614fc72c-b4c6-4d19-b308-796e7b749713)
+![Imersão Alura 2024](https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/111b400c-835a-45f1-8cd8-7c2b36f02654)
+
 
 
 
@@ -72,22 +73,26 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML 
-- Github
+- Github/
 - Git 
 - VsCode
-
+- CSS
+- JavaScript React
+- GitBash
+  
 ## 💻 Projeto
 
-Projeto Open Source  sua pincipais características dos projetos de código aberto:
+Projeto Imersão Front-End 
 
-⏩Transparência : Todo o código-fonte é acessível ao público
+⏩ Aula 01: Revisão: HTML, CSS e JS na Prática.
 
-⏩Colaboração:  Desenvolvedores de todo o mundo podem contribuir para o projeto.
+⏩Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts.
 
-⏩Liberdade: Os usuários têm a liberdade de usar, modificar e distribuir o software.
+⏩Aula 03: Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
-⏩Comunidade: Os projetos de código aberto geralmente têm comunidades ativas que discutem e ajudam no desenvolvimento.
+⏩Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
+⏩Aula 05: Frameworks e Eficiência: Introdução ao React
 
 ## 🔖 Layout
 
@@ -103,7 +108,7 @@ Projeto Open Source  sua pincipais características dos projetos de código aber
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Introdução ao Lab</td>
+      <td>Introdução ao HTML</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
