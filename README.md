@@ -120,10 +120,22 @@ Projeto Imersão Front-End
 | **Node.js**        | [Node.js Docs](https://nodejs.org/en/docs/)                         |
 
 
-## Olá! Meu Nome é Irene . </p>👩‍🎓Estudante na área de Sistema de Informação,
+## Olá! Meu Nome é Irene . 
+</p>👩‍🎓Estudante na área de Sistema de Informação,
 Cursando 8º período. Pretendo, enquanto respirar, continuar estudando. Sempre aperfeiçoando e desenvolvendo novas habilidades, em busca  de novos desafios, conhecimento e aprendizado. ❤️ ️Amo tecnologia, viajo o mundo virtual em busca
 das experiências e descobertas revolucionárias. O que mais me motiva é saber que para desenvolver habilidades basta estarmos disponíveis para aceitar o novo. 👀🎉
 
-## Feito com ♥ .Projeto de estudo da aluna Irene Silva França, feito através Imersão Front-End 2024 :wave: [Participe da nossa comunidade!](https://www.alura.com.br/formacao-editor-video/))
+## Feito com ❤️ .Projeto de estudo da aluna Irene Silva França, feito através Imersão Front-End 2024 :wave: [Participe da nossa comunidade!](https://www.alura.com.br/formacao-editor-video/) 📹 [Assista ao vídeo](https://www.youtube.com/watch?v=2t8ycK8D4Rk&t=4s)
+
+
+
+
+[![Assista ao vídeo](https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg)](https://www.youtube.com/watch?v=2t8ycK8D4Rk)
+
+**Clique na imagem acima para assistir ao vídeo.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2t8ycK8D4Rk" frameborder="0" allowfullscreen></iframe>
+
+
 
 
