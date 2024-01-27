@@ -111,16 +111,18 @@ Projeto Imersão Front-End
 
 # Tecnologias e Documentação
 
+
 | Tecnologia         | Documentação                                   |
 |--------------------|------------------------------------------------|
-| **HTML**           | [HTML MDN Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
-| **CSS**            | [CSS MDN Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)   |
-| **JavaScript**     | [JavaScript MDN Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
-| **React**          | [React Docs](https://reactjs.org/docs/getting-started.html)       |
-| **Git**            | [Git Documentation](https://git-scm.com/doc)                      |
-| **GitHub**         | [GitHub Docs](https://docs.github.com/pt)                           |
-| **VS Code**        | [VS Code Installation Guide](https://code.visualstudio.com/docs/setup/setup-overview) |
-| **Node.js**        | [Node.js Docs](https://nodejs.org/en/docs/)                         |
+| **HTML**           | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
+| **CSS**            | <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
+| **JavaScript**     | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
+| **React**          | <a href="https://reactjs.org/docs/getting-started.html"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
+| **Git**            | <a href="https://git-scm.com/doc"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
+| **GitHub**         | <a href="https://docs.github.com/pt"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
+| **VS Code**        | <a href="https://code.visualstudio.com/docs/setup/setup-overview"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
+| **Node.js**        | <a href="https://nodejs.org/en/docs/"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
+
 
 
 ## Olá! Meu Nome é Irene . 
@@ -130,29 +132,5 @@ das experiências e descobertas revolucionárias. O que mais me motiva é saber 
 
 ## Feito com ❤️ .Projeto de estudo da aluna Irene Silva França, feito através Imersão Front-End 2024 :wave: [Participe da nossa comunidade!](https://www.alura.com.br/formacao-editor-video/) 📹 [Assista ao vídeo](https://www.youtube.com/watch?v=2t8ycK8D4Rk&t=4s)
 
-
-
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=2t8ycK8D4Rk">
-    <img src="https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg" alt="Assista ao vídeo">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Clique na imagem acima para assistir ao vídeo.</strong>
-</p>
-
-
-| Tecnologia         | Documentação                                   |
-|--------------------|------------------------------------------------|
-| **HTML**           | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
-| **CSS**            | <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
-| **JavaScript**     | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
-| **React**          | <a href="https://reactjs.org/docs/getting-started.html"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
-| **Git**            | <a href="https://git-scm.com/doc"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
-| **GitHub**         | <a href="https://docs.github.com/pt"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
-| **VS Code**        | <a href="https://code.visualstudio.com/docs/setup/setup-overview"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
-| **Node.js**        | <a href="https://nodejs.org/en/docs/"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
 
 
