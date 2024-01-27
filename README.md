@@ -1,15 +1,15 @@
-  <img src="https://media.giphy.com/media/Prb2e8C2RCMEs9Ab3h/giphy.gif" src=".github/preview.jpg" width="5%"> Contribua   
+  <p align="center"> <img src="https://media.giphy.com/media/Prb2e8C2RCMEs9Ab3h/giphy.gif" src=".github/preview.jpg" width="25%">  
 
 ##
 
 
 <h1>
-    <p align="center">
-    <a href="https://www.alura.com.br/">
-     <img align="center" width="40px" src="https://th.bing.com/th/id/OIP.LOEkQE8KJZl6zkzzUXTEUAAAAA?rs=1&pid=ImgDetMain"></a>
-    <span> Créditos Deste Projeto para  </span>
 
-   [Alura](https://www.alura.com.br/)   e Todos que Contribuem</div>
+
+  <p align="center">
+        <span> Créditos Deste Projeto para  </span>
+    <a href="https://www.alura.com.br/">
+     <img align="center" width="40px" src="https://th.bing.com/th/id/OIP.LOEkQE8KJZl6zkzzUXTEUAAAAA?rs=1&pid=ImgDetMain"></a>   e Todos que Contribuíram</div>
 
 </h1>
 </p>
@@ -56,7 +56,7 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
 
 <br>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias/Sistemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -65,6 +65,8 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
 <p align="center">
   <img alt="Projeto Open Source no GitHub " src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" width="100%">
 </p>
+
+
 
 # 🚀 Tecnologias
 
