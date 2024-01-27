@@ -133,4 +133,14 @@ das experiências e descobertas revolucionárias. O que mais me motiva é saber 
 ## Feito com ❤️ .Projeto de estudo da aluna Irene Silva França, feito através Imersão Front-End 2024 :wave: [Participe da nossa comunidade!](https://www.alura.com.br/formacao-editor-video/) 📹 [Assista ao vídeo](https://www.youtube.com/watch?v=2t8ycK8D4Rk&t=4s)
 
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2t8ycK8D4Rk">
+    <img src="https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg" alt="Assista ao vídeo">
+  </a>
+</p>
+
+<p align="center">
+  <em>Clique na imagem acima para assistir ao vídeo.</em>
+</p>
+
 
