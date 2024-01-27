@@ -5,7 +5,7 @@
 
 <h1>
     <p align="center">
-    <a href="https://www.dio.me/">
+    <a href="https://www.alura.com.br/">
      <img align="center" width="40px" src="https://th.bing.com/th/id/OIP.LOEkQE8KJZl6zkzzUXTEUAAAAA?rs=1&pid=ImgDetMain"></a>
     <span> Créditos Deste Projeto para  </span>
 
