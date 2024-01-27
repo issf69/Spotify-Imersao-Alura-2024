@@ -18,9 +18,7 @@
  
 </p>
 
-
-
-                                    
+                                  
 <div>
    <p align="center">
   <a href="https://github.com/issf69">
@@ -50,8 +48,6 @@ Aprender o básico sobre HTML, CSS ,JavaScript React e diferenças entre Angular
 Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/images/immersion/logo_imersao_front.png) , cursos de Tecnologia, para fins didáticos.  <p align="center"> <img align="center" width="100px" src="https://cursos.alura.com.br/assets/images/immersion/logo_imersao_front.png">
 
 
-
-
    <h1 align="center"> Imersão Front-End</h1>
 
 <br>
@@ -62,9 +58,13 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
   <a href="#memo-licença">Licença</a>
 </p>
 
-![Imersão Alura 2024](https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/111b400c-835a-45f1-8cd8-7c2b36f02654)
 
-
+<div style="text-align:center;">
+  <img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/111b400c-835a-45f1-8cd8-7c2b36f02654" alt="Descrição da Imagem" style="width: 500px;">
+</div>
+<div style="text-align:center;">
+  <img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/986fdc5e-e8f3-4baf-87ae-2bbcc54b8409" alt="Descrição da Imagem" style="width: 500px;">
+</div>
 
 
 
