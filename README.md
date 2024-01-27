@@ -55,6 +55,7 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
   <a href="#-tecnologias">Tecnologias/Sistemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Video</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -132,7 +133,7 @@ das experiências e descobertas revolucionárias. O que mais me motiva é saber 
 
 ## Feito com ❤️ .Projeto de estudo da aluna Irene Silva França, feito através Imersão Front-End 2024 :wave: [Participe da nossa comunidade!](https://www.alura.com.br/formacao-editor-video/) 📹 [Assista ao vídeo](https://www.youtube.com/watch?v=2t8ycK8D4Rk&t=4s)
 
-
+## Video
 <p align="center">
   <a href="https://www.youtube.com/watch?v=2t8ycK8D4Rk">
     <img src="https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg" alt="Assista ao vídeo">
