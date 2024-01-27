@@ -130,12 +130,15 @@ das experiências e descobertas revolucionárias. O que mais me motiva é saber 
 
 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg)](https://www.youtube.com/watch?v=2t8ycK8D4Rk)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2t8ycK8D4Rk">
+    <img src="https://img.youtube.com/vi/2t8ycK8D4Rk/0.jpg" alt="Assista ao vídeo">
+  </a>
+</p>
 
-**Clique na imagem acima para assistir ao vídeo.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2t8ycK8D4Rk" frameborder="0" allowfullscreen></iframe>
-
+<p align="center">
+  <strong>Clique na imagem acima para assistir ao vídeo.</strong>
+</p>
 
 
 
