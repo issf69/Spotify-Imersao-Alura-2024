@@ -68,6 +68,7 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
 
 
 
+
 # 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
