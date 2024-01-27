@@ -62,9 +62,7 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="Projeto Open Source no GitHub " src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" width="100%">
-</p>
+![VSCODE git hub Alura](https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/614fc72c-b4c6-4d19-b308-796e7b749713)
 
 
 
