@@ -59,13 +59,16 @@ Imersão Front-End promovido pela  [Alura](https://cursos.alura.com.br/assets/im
 </p>
 
 
-<div style="text-align:center;">
-  <img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/111b400c-835a-45f1-8cd8-7c2b36f02654" alt="Descrição da Imagem" style="width: 500px;">
-</div>
-<div style="text-align:center;">
-  <img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/986fdc5e-e8f3-4baf-87ae-2bbcc54b8409" alt="Descrição da Imagem" style="width: 500px;">
+
+
+<div align="center">
+<img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/111b400c-835a-45f1-8cd8-7c2b36f02654" width="700px" />
 </div>
 
+
+<div align="center">
+<img src="https://github.com/issf69/Spotify-Imersao-Alura-2024/assets/105497075/986fdc5e-e8f3-4baf-87ae-2bbcc54b8409" width="700px" />
+</div>
 
 
 # 🚀 Tecnologias
@@ -140,5 +143,16 @@ das experiências e descobertas revolucionárias. O que mais me motiva é saber 
   <strong>Clique na imagem acima para assistir ao vídeo.</strong>
 </p>
 
+
+| Tecnologia         | Documentação                                   |
+|--------------------|------------------------------------------------|
+| **HTML**           | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
+| **CSS**            | <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
+| **JavaScript**     | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
+| **React**          | <a href="https://reactjs.org/docs/getting-started.html"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
+| **Git**            | <a href="https://git-scm.com/doc"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
+| **GitHub**         | <a href="https://docs.github.com/pt"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
+| **VS Code**        | <a href="https://code.visualstudio.com/docs/setup/setup-overview"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF69B4?style=for-the-badge"></a> |
+| **Node.js**        | <a href="https://nodejs.org/en/docs/"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-87CEEB?style=for-the-badge"></a> |
 
 
