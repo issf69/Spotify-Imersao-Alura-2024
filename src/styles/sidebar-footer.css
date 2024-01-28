@@ -19,7 +19,7 @@ body {
 }
 
 .logo {
-    background: #121212;
+    background: #911c1c;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
@@ -39,7 +39,7 @@ body {
 }
 
 .sidebar nav ul li a {
-    color: #b3b3b3;
+    color: #c82626;
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
@@ -66,7 +66,7 @@ body {
 .library .library__button {
     display: flex;
     margin-right: 10px;
-    color: #b3b3b3;
+    color: #731616;
     background-color: transparent;
     border: 0px;
     font-size: 14px;
@@ -80,7 +80,7 @@ body {
 .library .library__button .fa {
     font-size: 20px;
     font-weight: 300;
-    color: #b3b3b3;
+    color: #750f0f;
     margin-right: 10px;
     padding-right: 8px;
 }
@@ -110,7 +110,7 @@ body {
 
 .section-playlist__content .text {
     padding-bottom: 14px;
-    color: #FFF;
+    color: #ba1414;
 }
 
 .section-playlist__content .title {
@@ -125,7 +125,7 @@ body {
 .section-playlist__content .section-playlist__button {
     display: flex;
     justify-content: center;
-    background-color: #FFF;
+    background-color: #a12d2d;
     color: #000;
     border-radius: 20px;
     font-size: 12px;
@@ -156,8 +156,8 @@ body {
 .languages .languages__button {
     align-items: center;
     background-color: transparent;
-    border: 1px solid #878787;
-    color: #FFF;
+    border: 1px solid #a1b507;
+    color: #4aa511;
     font-weight: bold;
     cursor: pointer;
     width: 170px;
@@ -171,10 +171,45 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to right, #ae2896, #509bf5);
-    padding: 15px 40px;
+    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00, #ffc400, #ff0000, #fb0094, #0000ff, #ffff00, #ff0000);
     display: flex;
     justify-content: space-between;
+    animation: blink 0.5s infinite alternate;
+    /* Adiciona uma animação chamada "blink" com duração de 1 segundo, repetição infinita e efeito alternado */
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+        /* Elemento totalmente visível no início da animação */
+    }
+    100% {
+        opacity: 0;
+        /* Elemento totalmente transparente no final da animação */
+    }
+}
+
+.wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    /* Cria uma onda transparente */
+    animation: waveAnimation 10s linear infinite;
+    /* Adiciona uma animação chamada "waveAnimation" com duração de 4 segundos, movimento linear e repetição infinita */
+}
+
+@keyframes waveAnimation {
+    0% {
+        transform: translateX(0);
+        /* Nenhuma transformação no início */
+    }
+    100% {
+        transform: translateX(-100%);
+        /* Desloca a onda para a esquerda por 100% da largura do footer no final */
+    }
 }
 
 .disclaimer-premium .text {
@@ -205,4 +240,61 @@ body {
     border-radius: 40px;
     cursor: pointer;
     flex-shrink: 0;
+}
+
+.offer__list-item {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    animation: moveCards 5s infinite alternate;
+}
+
+@keyframes moveCards {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(10px);
+    }
+}
+
+.offer__list-item {
+    display: flex;
+    gap: 20px;
+}
+
+.offer__list-item .cards {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.offer__list-item .cards:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.offer__list-item .cards:hover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00, #ffc400, #ff0000);
+    border-radius: 10px;
+    opacity: 0.7;
+    animation: pulse 1s infinite;
 }

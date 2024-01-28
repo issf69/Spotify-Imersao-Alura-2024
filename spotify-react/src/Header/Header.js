@@ -38,15 +38,15 @@ const Header = () => {
         value = "" /
         >
         <
-        /button> <
-        /div>
+        /button> < /
+        div >
 
         <
         div className = "header__login" >
         <
         button className = "subscribe" > Inscreva - se < /button> <
-        button className = "login" > Entrar < /button> <
-        /div> <
+        button className = "login" > Entrar < /button> < /
+        div > <
         /nav>
 
     );
