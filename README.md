@@ -100,6 +100,16 @@ Projeto Imersão Front-End
 
 ## 🔖 Layout
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qoCQt3GkiEo">
+    <img src="https://img.youtube.com/vi/qoCQt3GkiEo/0.jpg" alt="Assista ao vídeo">
+  </a>
+</p>
+
+<p align="center">
+  <em>Clique na imagem acima para assistir ao vídeo.</em>
+</p>
+
 ## 📽️ Video
 <p align="center">
   <a href="https://www.youtube.com/watch?v=2t8ycK8D4Rk">
@@ -110,6 +120,7 @@ Projeto Imersão Front-End
 <p align="center">
   <em>Clique na imagem acima para assistir ao vídeo.</em>
 </p>
+
 
 ---
 
