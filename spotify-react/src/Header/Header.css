@@ -7,7 +7,7 @@
     padding: 1rem;
     margin: 10px;
     border-radius: 8px;
-    background-color: #121212;
+    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00, #ffc400, #ff0000, #fb0094, #0000ff, #ffff00, #ff0000);
 }
 
 .header__navigation .navigation {
@@ -74,6 +74,16 @@
     border: none;
 }
 
+@keyframes blink {
+    0%,
+    100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
 .header__login .login {
     width: 100px;
     height: 48px;
@@ -83,6 +93,8 @@
     border-radius: 40px;
     border: none;
     background-color: #fff;
+    position: relative;
+    animation: blink 1s infinite;
 }
 
 
@@ -94,7 +106,7 @@
 
 .header__login .subscribe:hover {
     transform: scale(1.04);
-    color: #fff;
+    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00, #ffc400, #ff0000, #fb0094, #0000ff, #ffff00, #ff0000);
     cursor: pointer;
 }
 
