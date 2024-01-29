@@ -133,16 +133,17 @@ Projeto Imersão Front-End
 # Tecnologias e Documentação
 
 
-| Tecnologia         | Documentação                                   |
-|--------------------|------------------------------------------------|
-| **HTML**           | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
-| **CSS**            | <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
-| **JavaScript**     | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
-| **React**          | <a href="https://reactjs.org/docs/getting-started.html"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
-| **Git**            | <a href="https://git-scm.com/doc"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
-| **GitHub**         | <a href="https://docs.github.com/pt"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
-| **VS Code**        | <a href="https://code.visualstudio.com/docs/setup/setup-overview"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> |
-| **Node.js**        | <a href="https://nodejs.org/en/docs/"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> |
+
+| Tecnologia         | Documentação                                   | Imagem                                             |
+|--------------------|------------------------------------------------|----------------------------------------------------|
+| **HTML**           | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> | [<img alt="HTML" src="https://i.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="50">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
+| **CSS**            | <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> | [<img alt="CSS" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/css.gif" width="50">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
+| **JavaScript**     | <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> | [<img alt="JavaScript" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" width="50">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
+| **React**          | <a href="https://reactjs.org/docs/getting-started.html"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> | [<img alt="React" src="https://media1.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" width="50">](https://reactjs.org/docs/getting-started.html) |
+| **Git**            | <a href="https://git-scm.com/doc"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> | [<img alt="Git" src="https://velog.velcdn.com/images/younoah/post/bc8a1f7c-68ac-48bc-84be-d6855d436f18/Git.gif" width="50">](https://git-scm.com/doc) |
+| **GitHub**         | <a href="https://docs.github.com/pt"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> | [<img alt="GitHub" src="https://th.bing.com/th/id/R.ce6e4d2e376119ddd5553036bbec443e?rik=1WrQqmC2O57a0g&pid=ImgRaw&r=0" width="50">](https://docs.github.com/pt) |
+| **VS Code**        | <a href="https://code.visualstudio.com/docs/setup/setup-overview"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-FF1493?style=for-the-badge"></a> | [<img alt="VS Code" src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50">](https://code.visualstudio.com/docs/setup/setup-overview) |
+| **Node.js**        | <a href="https://nodejs.org/en/docs/"><img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-00008B?style=for-the-badge"></a> | [<img alt="Node.js" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e69ab290704783.5e39e8ad5f86f.gif" width="50">](https://nodejs.org/en/docs/) |
 
 
 
