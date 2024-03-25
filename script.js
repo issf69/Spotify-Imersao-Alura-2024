@@ -1,34 +1,27 @@
-const searchInput = document.getElementById('search-input');
-const resultArtist = document.getElementById("result-artist");
-const resultPlaylist = document.getElementById('result-playlists');
-
-function requestApi(searchTerm) {
-    const url = `http://localhost:3000/artists?name_like=${searchTerm}`
-    fetch(url)
-        .then((response) => response.json())
-        .then((result) => displayResults(result))
-}
-
 function displayResults(result) {
-    resultPlaylist.classList.add("hidden")
-    const artistName = document.getElementById('artist-name');
-    const artistImage = document.getElementById('artist-img');
+    resultArtist.classList.add("hidden");
+
+    // Limpar o conteúdo anterior antes de exibir novos resultados
+    resultArtist.innerHTML = '';
 
     result.forEach(element => {
+        // Criar novos elementos para cada artista
+        const artistContainer = document.createElement('div');
+        artistContainer.classList.add('artist-container');
+
+        const artistName = document.createElement('h2');
         artistName.innerText = element.name;
+
+        const artistImage = document.createElement('img');
         artistImage.src = element.urlImg;
+
+        // Adicionar os elementos criados ao contêiner
+        artistContainer.appendChild(artistName);
+        artistContainer.appendChild(artistImage);
+
+        // Adicionar o contêiner à página
+        resultArtist.appendChild(artistContainer);
     });
 
     resultArtist.classList.remove('hidden');
 }
-
-document.addEventListener('input', function() {
-    const searchTerm = searchInput.value.toLowerCase();
-    if (searchTerm === '') {
-        resultPlaylist.classList.add('hidden');
-        resultArtist.classList.remove('hidden');
-        return
-    }
-
-    requestApi(searchTerm);
-})
